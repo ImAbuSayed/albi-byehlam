@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Albi Byehlam |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/albi-byehlam/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبة الليل تعالي نذوب في الغرام
+> نار الشوق تحرقني وتطرد المنام
+> بين أحضاني دعينا نكسر القواعد
+> قربك يسحرني وهذا القلب لكِ شاهد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
