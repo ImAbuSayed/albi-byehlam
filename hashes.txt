@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Albi Byehlam
+
+This log tracks the cryptographic history and versioning for the song **Albi Byehlam** (albi-byehlam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:11:25.072994 | `v1` | `da09851f89a4252a51b236a4eb91f268168d09aef0dc68806a138bf31c91d568` | `9217348da9f7549b06a990304ef7a1abed91f39d4781c4f20f1b6d63ab018892` | `2026-05-09_albi-byehlam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
